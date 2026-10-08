@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>John O Reillys site</title>
+<title>nina thompsons site</title>
 </head>
 <body>
 <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png"
@@ -12,15 +12,15 @@ alt="A cute yellow cat"/>
 </html>
 <!-- <h1> hello </h1> -->
 <article>
- <h1> All about cars </h1>
-  <p> A lot of text about cars, what they are, how they're made, how expensive they are, and so much more.
+ <h1> All about hairdressing </h1>
+  <p> I'll give you everything you need to know when it comes to booking my services.
 </article>
 
 
   <section>
-  <p>A lot of information here will be related to cars.</p>
+  <p>A lot of information here will be related to my salons details.</p>
 </section>
 
 <section>
   <p>A lot of information here will be related to the prices.</p>
-<section>
+</section>
